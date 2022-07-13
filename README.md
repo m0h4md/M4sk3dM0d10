@@ -2,5 +2,5 @@
 
 I AM NOT RESPONSIBLE FOR ANY ILLEGAL USE
 COMMANDS:
-   boody,
+   phish,
    exit
